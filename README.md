@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veechi
 - 👀 I’m interested in ... solving problems using COMPUTERS
-- 🌱 I’m currently learning ... the basics :) via Harvard's cs50 course
+- 🌱 I’m currently learning ... the basics :) via Harvard's online cs50 course
 - 📫 How to reach me ... email: peytonvecchi@gmail.com
 
 <!---
