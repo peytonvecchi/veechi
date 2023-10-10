@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veechi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, javascript, and python
+- 🌱 I’m currently django
 - 📫 How to reach me ... email: peytonvecchi@gmail.com
 ---
 veechi/veechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
